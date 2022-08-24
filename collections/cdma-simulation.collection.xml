@@ -1,74 +1,23 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Alison Hightman ,Elaine Chung ,Alejandra Galvan">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <md:content-id>col11388</md:content-id>
-  <md:title>CDMA Simulation</md:title>
-  
-  
-  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
-  <md:language>en</md:language>
-
-  
-
-  
-  
-  
-  
-  
-
-  <md:uuid>381aff65-259e-4360-82c3-cd29ac139e05</md:uuid>
-<md:slug>cdma-simulation</md:slug>
-</metadata>
-
+    <md:content-id>col11388</md:content-id>
+    <md:title>CDMA Simulation</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+    <md:language>en</md:language>
+    <md:uuid>381aff65-259e-4360-82c3-cd29ac139e05</md:uuid>
+    <md:slug>cdma-simulation</md:slug>
+  </metadata>
   <col:content>
-    
-      <col:module document="m41808"/>
-        
-      
-    
-    
-      <col:module document="m41801"/>
-        
-      
-    
-    
-      <col:module document="m41832"/>
-        
-      
-    
-    
-      <col:module document="m41829"/>
-        
-      
-    
-    
-      <col:module document="m41827"/>
-        
-      
-    
-    
-      <col:module document="m41804"/>
-        
-      
-    
-    
-      <col:module document="m41831"/>
-        
-      
-    
-    
-      <col:module document="m41815"/>
-        
-      
-    
-    
-      <col:module document="m41796"/>
-        
-      
-    
-    
-      <col:module document="m41805"/>
-        
-      
-    
+    <col:module document="m41808"/>
+    <col:module document="m41801"/>
+    <col:module document="m41832"/>
+    <col:module document="m41829"/>
+    <col:module document="m41827"/>
+    <col:module document="m41804"/>
+    <col:module document="m41831"/>
+    <col:module document="m41815"/>
+    <col:module document="m41796"/>
+    <col:module document="m41805"/>
   </col:content>
 </col:collection>
